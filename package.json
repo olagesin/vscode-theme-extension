@@ -1,0 +1,22 @@
+{
+    "name": "colorTest",
+    "displayName": "colorTest",
+    "description": "\"A test theme to be built before the main theme pack\"",
+    "version": "0.0.1",
+    "publisher": "Olagesin-Samuel",
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "My Theme!",
+                "uiTheme": "vs-dark",
+                "path": "./themes/My Theme!-color-theme.json"
+            }
+        ]
+    }
+}

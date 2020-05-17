@@ -1,8 +1,8 @@
 {
     "name": "colorTest",
     "displayName": "colorTest",
-    "description": "\"A test theme to be built before the main theme pack\"",
-    "version": "0.0.1",
+    "description": "\"A Visual Studio Code theme.\"",
+    "version": "0.0.2",
     "publisher": "Olagesin-Samuel",
     "engines": {
         "vscode": "^1.45.0"

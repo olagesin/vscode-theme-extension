@@ -2,7 +2,7 @@
     "name": "colorTest",
     "displayName": "colorTest",
     "description": "\"A Visual Studio Code theme.\"",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "Olagesin-Samuel",
     "engines": {
         "vscode": "^1.45.0"

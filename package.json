@@ -18,5 +18,9 @@
                 "path": "./themes/My Theme!-color-theme.json"
             }
         ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/feyiiOlagesin/vscode-theme-extension"
     }
 }
